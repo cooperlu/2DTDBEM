@@ -42,9 +42,7 @@ else
 end
 end
 
-function a = acosh(x)
-a = log(x + sqrt(x^2-1));
-end
+
 function a = rais(x)
 a = sqrt(x^2-1)/x;
 end
